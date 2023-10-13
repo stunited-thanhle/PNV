@@ -46,5 +46,35 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Thanh",
+      "email": "thanh.le@stunited.vn",
+      "phone": "0935997897",
+      "password": "thanh123"
+    },
+    {
+      "id": 2,
+      "name": "Duc",
+      "email": "duc.le@stunited.vn",
+      "phone": "0935997898",
+      "password": "thanh123"
+    },
+    {
+      "id": 3,
+      "name": "Nhat",
+      "email": "nhat.le@stunited.vn",
+      "phone": "0935997899",
+      "password": "thanh123"
+    },
+    {
+      "name": "Thu",
+      "email": "thu.le@stunited.vn",
+      "phone": "0915997897",
+      "password": "12312312312",
+      "id": 4
+    }
+  ]
 }
